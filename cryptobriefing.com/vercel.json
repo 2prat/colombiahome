@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/man-pays-btc-for-colombian-cocaine",
+      "destination": "https://colombianart.vercel.app/"
+    }
+  ]
+}
